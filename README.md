@@ -8,4 +8,4 @@
 -->
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chriseverts)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chriseverts&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
