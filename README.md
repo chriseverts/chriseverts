@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on data science
 - 🌱 I’m currently learning ML
 - 💬 Ask me about ...
