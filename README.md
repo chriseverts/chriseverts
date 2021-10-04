@@ -27,8 +27,8 @@
 
 
   
-
-
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chriseverts&layout=compact&theme=light"/>
+<br/>
 
 
 
@@ -41,8 +41,13 @@
 
 
 
+<br/>
 
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=chriseverts)
+
+  
+  <hr>
 
 
 
