@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on data science
-- 🌱 I’m currently learning ML
 - 📫 How to reach me: chris.everts21@gmail.com and my [LinkedIn](www.linkedin.com/in/chris-everts-39a4b735)
 
 
